@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Applied Data Capstone Assignment
+Applied Data Science Capstone Assignment
